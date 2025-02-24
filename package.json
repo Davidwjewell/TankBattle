@@ -1,0 +1,26 @@
+{
+  "name": "workspace",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.21.2",
+    "matter-js": "^0.20.0",
+    "ws": "^8.18.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://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@github.com/Davidwjewell/TankBattle.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Davidwjewell/TankBattle/issues"
+  },
+  "homepage": "https://github.com/Davidwjewell/TankBattle#readme"
+}
